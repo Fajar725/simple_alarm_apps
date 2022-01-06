@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/fajarwahyudi/workplace/flutter_project/simple_alarm_apps/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/Users/fajarwahyudi/workplace/flutter_project/simple_alarm_apps_git/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "/Users/fajarwahyudi/.gradle/caches/transforms-2/files-2.1/333a1c851fce95274a1c02b6cf2bfc8f/media-1.1.0/res/values-v24/values-v24.xml",
