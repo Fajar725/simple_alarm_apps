@@ -181,7 +181,7 @@ class _MainPageState extends State<MainPage> {
 
                     if(bool){
                       _alignmentX = 0.0;
-                      NotificationConfig.showSceduleNotification(_dateTimeAlarm);
+                      NotificationConfig.showSceduleNotification(_dateTimeAlarm, title: "Alarm Ring", body: "Alarm is Ring . . . ");
                       PresistenceConfig.getInstance().setPreferences(PreferencesEnum.ALARM, Alarm(alarm: _dateTimeAlarm, isActivel: _activeAlarm).toJsonString());
                     } else {
                       _alignmentX = -0.034;
