@@ -117,11 +117,13 @@ class _MainPageState extends State<MainPage> {
       int _compare = _getCompare;
       Duration _diff = _getDifference;
 
-      if(_compare <= 0 && _activeAlarm){
+      if(_activeAlarm){
         _hoursLeft = durationToStringClock(_diff);
 
-        _alignmentX = -0.034;
-        _activeAlarm = false;
+        if(_compare < 0){
+          _alignmentX = -0.034;
+          _activeAlarm = false;
+        }
 
         setState(() {});
       }

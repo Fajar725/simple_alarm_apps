@@ -46,6 +46,7 @@ class NotificationConfig {
     importance: Importance.max,
     priority: Priority.high,
     showWhen: false,
+    sound: RawResourceAndroidNotificationSound('slow_spring_board')
   );
 
   static const NotificationDetails _platformChannelSpecifics = NotificationDetails(
