@@ -1,15 +1,15 @@
 # simple_alarm_apps
 
-A new Flutter project.
+This project for assignment.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+run the project with Flutter v1.22 stabel version.
 
-A few resources to get you started if this is your first Flutter project:
+just extract zip folder and open the project.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+or clone from github 
+<Directory> $ git clone https://drive.google.com/file/d/17NYYLR9pFmd4eTw-dqM0imN_lwT0PigN/view?usp=sharing
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
