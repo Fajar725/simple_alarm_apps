@@ -1,0 +1,4 @@
+#Wed Jan 05 00:30:53 WIB 2022
+base.0=/Users/fajarwahyudi/workplace/flutter_project/simple_alarm_apps/build/app/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
